@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">m7storage</string>
+    <string name="add_text">ADD TEXT</string>
+    <string name="click_to_view">Click to View</string>
+    <string name="save_as_public">SAVE AS PUBLIC</string>
+    <string name="save_as_private">SAVE AS PRIVATE</string>
+    <string name="show_public_data">SHOW PUBLIC DATA</string>
+    <string name="show_private_data">SHOW PRIVATE DATA</string>
+    <string name="back">BACK</string>
+    <string name="click_to_vie">Click to View</string>
 </resources>
